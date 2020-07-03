@@ -4,15 +4,15 @@
 # Tutorial 1
 
 :::abc
-	X:1
-	T:Speed The Plough
-	M:4/4
-	L:1/8
-	N:Simple version
-	Z:Steve Mansfield 1/2/2000
-	K:G
-	GABc dedB | dedB dedB | c2ec B2dB | A2A2 A2 BA|
-	GABc dedB | dedB dedB | c2ec B2dB | A2A2 G4 ::
-	g2g2 g4 | g2fe dBGB | c2ec B2dB | A2A2 A4 |
-	g2g2 g4 | g2fe dBGB | c2ec B2dB | A2A2 G4 :|
-	:::
+X:1
+T:Speed The Plough
+M:4/4
+L:1/8
+N:Simple version
+Z:Steve Mansfield 1/2/2000
+K:G
+GABc dedB | dedB dedB | c2ec B2dB | A2A2 A2 BA|
+GABc dedB | dedB dedB | c2ec B2dB | A2A2 G4 ::
+g2g2 g4 | g2fe dBGB | c2ec B2dB | A2A2 A4 |
+g2g2 g4 | g2fe dBGB | c2ec B2dB | A2A2 G4 :|
+:::
